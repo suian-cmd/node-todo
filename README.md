@@ -1,3 +1,4 @@
-# node-todo-2
+# node-todo
 
-![](./node-todo.gif)
+执行命令：node cli.js
+
